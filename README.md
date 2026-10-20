@@ -21,7 +21,7 @@ I build and run web platforms used daily by students at **SRM AP** and **VIT-AP*
 ### VITAP UPDATES — campus updates and student tools for VIT-AP
 🔗 [lovevitap.purlyedit.in](https://lovevitap.purlyedit.in)
 - Centralized announcements, exams, events and placement updates
-- Attendance calculator: **2,500+ active users, 9,000+ calculations**
+- Attendance calculator: **4,000+ active users, 9,000+ calculations**
 - Faculty ranking, CGPA calculator (relative grading), and Help Space for peer support
 - Registration restricted to official university email with OTP verification
 - Stack: PHP, MySQL, JavaScript
